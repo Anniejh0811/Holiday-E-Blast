@@ -6,7 +6,7 @@
   <p align="center">
     This is an example of the e-blast. Test it below.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="http://sendemail.rf.gd/">View Demo</a>
   </p>
 </div>
 
