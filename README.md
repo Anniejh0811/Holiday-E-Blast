@@ -1,14 +1,10 @@
-# Holiday-E-Blast
-
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="public/Logo-v2.png" alt="Logo" width="200" height="80">
-  </a>
+  <a href="https://github.com/othneildrew/Best-README-Template">  </a>
 
-  <h3 align="center">TWINKLE</h3>
+  <h3 align="center">Holiday E-Blast</h3>
 
   <p align="center">
-    Welcome to our ecommerce website repository! 
+    This is an example of the e-blast. Test it below.
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
   </p>
@@ -17,62 +13,21 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="public/screenshot-github.png" alt="Logo">
+<img src="/holidayEblast.png" alt="Logo">
 
-**Twinkle** aims to provide a user-friendly platform for online shopping. With a focus on simplicity, and efficiency, our website offers a seamless shopping experience for customers and easy management for administrators.
-
-### Features
-The following **core** functionality is completed:
-
-* [X] Buyer and seller can **login using google account**
-* [X] Seller can **upload products in categories** (only admin)
-* [X] Buyer can **select product, add to the cart, and check out**.
-* [X] Log in users'cart will be **saved until user removes it**. 
-
-### Notes
-More features will be added..
-* [ ] room for improvement in UI & UX
-* [ ] saved user card info
-* [ ] search options
-* [ ] administor page
+**Holiday E-blast** is an e-blast that can be sent during the holiday season. 
 
 <!-- GETTING STARTED -->
-## Getting Started
-To get a local copy up and running follow these simple example steps.
+## Try Yourself
+Option 1. Go the the link <a href="http://sendemail.rf.gd/">Try</a> and type your email to recieve one.
 
-### Prerequisites
+Option 2. Download the file and use <a href="https://putsmail.com/">Putsmail</a> and check inline CSS and send.
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [Firebase Auth](https://firebase.google.com/docs/auth/web/start)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/Anniejh0811/Twinkle-Shopping.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `api/firebase.js`
-    ```js
-   const firebaseConfig = {
-      apiKey: "YOUR API KEY",..
-    };
-   ```
+## Built with
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-
-
 
 
 
